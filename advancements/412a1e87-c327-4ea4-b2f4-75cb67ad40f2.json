@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2021-04-10 00:43:30 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2021-02-26 14:31:52 -0700"
@@ -641,9 +647,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2021-04-10 02:16:43 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-03-25 02:01:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2021-04-10 00:42:58 -0600"
     },
     "done": true
   },
